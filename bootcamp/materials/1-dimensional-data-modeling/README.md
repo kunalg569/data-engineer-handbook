@@ -2,7 +2,7 @@
 
 This repository contains the setup for the data modeling modules in Weeks 1 and 2.
  
-:wrench: **Tech Stack**
+:wrench: **Tech Stack** 
 
 - Git
 - Postgres
